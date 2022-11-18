@@ -1,1 +1,1 @@
-# Machine-Learning Techiniques
+# Machine-Learning 
